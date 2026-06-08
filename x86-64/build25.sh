@@ -53,7 +53,6 @@ PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-app-ssr-plus"
 #25.12
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
